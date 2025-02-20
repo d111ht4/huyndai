@@ -1,0 +1,5 @@
+* {margin: 0; padding: 0;}
+a {color: inherit; text-decoration: none;}
+li {list-style: none;}
+img {vertical-align: top;}
+.wrap:after, ul:after, .cl:after {content: ""; clear: both; display: block;}
